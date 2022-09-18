@@ -1,2 +1,1 @@
-# DinoProfile
-Nothing
+dinoprofile.github.io
